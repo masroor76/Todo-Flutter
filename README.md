@@ -1,6 +1,15 @@
-# todo
+=> APK is available in files directory  
 
-A new Flutter Todo Project.
+# Todo
+
+A new Flutter Todo Project for Practice.
+-----------------------------------------------------------------------------------------------------------
+
+## Tech Stack
+### - Provider State Management
+### - Persistent Data with Shared Preference
+-----------------------------------------------------------------------------------------------------------
+
 
 ## Getting Started
 
